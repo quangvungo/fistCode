@@ -3,8 +3,6 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class newproject {
-    import java.util.*;
 
     public class newproject {
         public static void main(String[] args) {
@@ -61,4 +59,3 @@ public class newproject {
         }
     }
 
-}
