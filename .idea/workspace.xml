@@ -4,122 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fef2b5ff-5665-438f-9c9b-d9814f1cbb49" name="Changes" comment="CODE1">
-      <change afterPath="$PROJECT_DIR$/count/src/newproject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/PEPRO1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/src/Check.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/src/Doctor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/src/Menu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PEPRO1/src/View.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/Controller/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/Model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/CompanyManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/CompanyManagement$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/CompanyManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/LAB6Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/View/ValidDatation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LAB6part3/folder/Customer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab6/controller/CheckValid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab6/model/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab6/model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab6/view/CompanyManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lab6/view/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PEPRO1/Check.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PEPRO1/Doctor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PEPRO1/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PEPRO1/View.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/DomesticTour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/ITour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/InternatialTour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/Tour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE04/TourManage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/Controller/ProductManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/Controller/ProductManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/Model/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/Model/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/View/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE2/utils/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/model/Doctor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/model/DoctorList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/utils/Validator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/view/DoctorManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/view/DoctorManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE5/view/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/model/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/model/StudentList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/model/comparator/StudentComparatorByGPA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/model/comparator/StudentComparatorByID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/model/comparator/StudentComparatorByOld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/utils/Validation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/view/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/view/StudentManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/view/StudentManagement$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PROPE6/view/StudentManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Book.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/BuyBook.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/BuyCustomer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Controller/Admin$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Controller/Admin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Controller/CustomerManage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Customer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/BuyBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/BuyCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/RentBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Model/RentCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/RentBook.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/RentCustomer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/RentedBook.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/Review.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/BookStore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/CustomerManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/ReviewManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Proretest/View/Validation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Common/Algorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Common/Library.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Controller/SortProgramming$1SortMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Controller/SortProgramming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/Model/Element.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Student/View/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZPEPRO/Controller/VaccineManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZPEPRO/Model/VaccineList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZPEPRO/Model/Vaccines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZPEPRO/View/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZPEPRO/View/Validation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Controller/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Customer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Customer1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Model/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/CompanyManagement$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/CompanyManagement$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/CompanyManagement$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/CompanyManagement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/LAB6Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/LAB6Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lab6part2/Viewer/ValidDatation.class" beforeDir="false" />
-    </list>
+    <list default="true" id="fef2b5ff-5665-438f-9c9b-d9814f1cbb49" name="Changes" comment="CODE1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693900034634</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="CODE1">
+      <created>1694503281698</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694503281698</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CODE1">
+      <created>1694503323672</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694503323672</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
